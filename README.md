@@ -1,6 +1,7 @@
 # find-beauty-in-douyin
 使用 ADB 和 Node.js 训练抖音模型，自动关注抖音里好看的小姐姐
 
+![](./logo.jpg)
 
 ## 使用
 
