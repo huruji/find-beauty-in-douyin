@@ -1,6 +1,8 @@
 # find-beauty-in-douyin
 使用 ADB 和 Node.js 训练抖音模型，自动关注抖音里好看的小姐姐
 
+训练过程的简单视频可以在 [https://www.youtube.com/watch?v=-_Gwd3DHJZU](https://www.youtube.com/watch?v=-_Gwd3DHJZU) 或者 [http://www.iqiyi.com/w_19saaayji1.html](http://www.iqiyi.com/w_19saaayji1.html) 看到
+
 ![](./logo.jpg)
 
 ## 使用
@@ -37,3 +39,4 @@ npm i
 ```bash
 npm run start
 ```
+
