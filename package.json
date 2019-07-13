@@ -1,0 +1,31 @@
+{
+  "name": "find-beauty-in-douyin",
+  "version": "1.0.0",
+  "description": "使用 ADB 和 Node.js 自动关注抖音里好看的小姐姐",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huruji/find-beauty-in-douyin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huruji/find-beauty-in-douyin/issues"
+  },
+  "homepage": "https://github.com/huruji/find-beauty-in-douyin#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.1",
+    "eslint-config-airbnb": "^17.1.1",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2"
+  },
+  "dependencies": {
+    "base64-img": "^1.0.4"
+  }
+}
